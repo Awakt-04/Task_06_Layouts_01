@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">[Task 06]_Layouts_01</string>
+    <string name="textoNombre">Nombre</string>
+    <string name="textoBoton">Edit Profile</string>
+    <string name="textoBarra">EjercicioAndroid2</string>
+    <string name="textoSub1">Followers</string>
+    <string name="textoSub2">Following</string>
+    <string name="textoSub3">Estrellita</string>
+    <string name="DescripcionCirculo">Circulo color cian</string>
+    <string name="textoAsunto">Asunto</string>
+    <string name="textoContenido">Contenido</string>
+    <string name="textoFecha">Fecha</string>
+    <string name="DescripcionCirculo2">Circulo color cian con cuadrado verde</string>
+    <string name="LinearLayout1">LinearLayout 1</string>
+    <string name="LinearLayout2">LinearLayout 2</string>
+    <string name="ConstraintLayout1">ConstraintLayout 1</string>
+    <string name="ConstraintLayout2">ConstraintLayout 2</string>
+    <string name="TableLayout1">TableLayout 1</string>
+    <string name="TableLayout2">TableLayout 2</string>
+    <string name="Botónvuelta">Volver a página principal</string>
+</resources>
